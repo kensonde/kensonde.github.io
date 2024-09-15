@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kensonde.github.io/sitemap.html.gz
+Sitemap: https://kensonde.github.io/app/sitemap.html.gz
+Sitemap: https://kensonde.github.io/assets/sitemap.html.gz
+Sitemap: https://kensonde.github.io/css/sitemap.html.gz
+Sitemap: https://kensonde.github.io/includes/sitemap.html.gz
+Sitemap: https://kensonde.github.io/item/sitemap.html.gz
+Sitemap: https://kensonde.github.io/src/sitemap.html.gz
